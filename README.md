@@ -6,7 +6,7 @@
 - [Contributors](#Contributors)
 
 ## About <a name = "about"></a>
-- A to-do list flutter app to manage your daily tasks. it is built based on BLoC statement and sqflite data base.
+- A to-do list flutter app to manage your daily tasks. it is built based on BLoC state management and sqflite data base.
 
 ## ScreenShots from the app: <a name = "screen-shots"></a>
 ![collage (2)](https://user-images.githubusercontent.com/90224487/184756885-7555f0b0-c7b2-4774-a8ef-108ebc64d549.jpg)
